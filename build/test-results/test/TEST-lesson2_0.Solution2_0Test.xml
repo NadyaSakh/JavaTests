@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lesson2_0.Solution2_0Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-19T07:56:17" hostname="MSI" time="0.008">
+  <properties/>
+  <testcase name="testGetCustomersFromCardInterval" classname="lesson2_0.Solution2_0Test" time="0.006"/>
+  <testcase name="testGetCustomersNotNull" classname="lesson2_0.Solution2_0Test" time="0.0"/>
+  <testcase name="testNoCustomersInSuchCardInterval" classname="lesson2_0.Solution2_0Test" time="0.0"/>
+  <testcase name="testSortCustomersByFIO" classname="lesson2_0.Solution2_0Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
